@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">trombinoscope</string>
+    <string name="afficher">Afficher le trombinoscope</string>
+    <string name="ajouter">Ajouter une personne</string>
+    <string name="nom">NOM</string>
+    <string name="prenom">PRENOM</string>
+    <string name="buttonAjouter">AJOUTER</string>
+</resources>
